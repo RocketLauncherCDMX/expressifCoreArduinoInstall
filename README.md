@@ -4,7 +4,7 @@ Para todos los productos que funcionen con ESP32 y sus versiones S3 o C3, aquí 
 
 ---
 
-Para poder programar la Tuxedo 18650 es necesario instalar el núcleo de **Expressif** que incorpora todo lo necesario para el ESP32. Bastará con seguir los siguientes pasos en Arduino:
+Para poder programar en Arduino los productos de Rocket Launcher que integren un microcontrolador ESP32, es necesario instalar el núcleo de **Expressif** que incorpora todo lo necesario para el ESP32. Bastará con seguir los siguientes pasos en Arduino:
 
 <p> 1. Dentro de Arduino, ir a la pestaña **Archivo/Preferencias** </p>
 <p align="center">
