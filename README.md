@@ -19,7 +19,7 @@ Para poder programar en Arduino los productos de Rocket Launcher que integren un
   <img src="https://github.com/user-attachments/assets/b78f0aa2-4bc7-492e-a474-6b35f4325064" alt="Tuxedo 18650 caracteristicas" width="720"/>
 </p>
 <br>
-3. A continuación iremos a la pestaña Herramientas/Gestor de tarjetas**
+3. A continuación iremos a la pestaña **Herramientas/Gestor de tarjetas**
 </p> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5beda194-2321-46ad-8e89-28798b30ce77" alt="Tuxedo 18650 caracteristicas" width="720"/>
